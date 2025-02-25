@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me khushallimje247@gmail.com.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am very lazy but funny.
+- ⚡ Fun fact: I am lazy but ...
 
 <!---
 Khush-Limje/Khush-Limje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
