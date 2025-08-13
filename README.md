@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Khush-Limje
-- 👀 I’m interested in Android development.
-- 🌱 I’m currently learning Android development.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently mastering in Artificial intelligence and Machine learning.
 - 📫 How to reach me khushallimje247@gmail.com.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am lazy but ...
